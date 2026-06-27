@@ -125,9 +125,3 @@ pip install opencv-python mediapipe pyautogui
 
 B.Tech Computer Science Engineering  
 SRM Institute of Science and Technology
-
----
-
-## ⭐ If you like this project
-
-Give this repository a ⭐ on GitHub!
